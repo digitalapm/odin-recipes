@@ -1,1 +1,1 @@
-# odin-recipes
+With this assignment i will learn/ learned how to use the basics of html, links, etc# odin-recipes
